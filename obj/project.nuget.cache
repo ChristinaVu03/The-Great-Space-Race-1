@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9Qc7yLwJKev0pp3Qnm1rVTEG1uztoc9psQ1QjGnybI1bWvEoRWibnPLYP4GE8+0Ra3PMg6jbuah9kdBhxNRtA==",
+  "success": true,
+  "projectFilePath": "/Users/thucanhchristinavu/Space/Space.csproj",
+  "expectedPackageFiles": [
+    "/Users/thucanhchristinavu/.nuget/packages/bepuphysics/2.4.0/bepuphysics.2.4.0.nupkg.sha512",
+    "/Users/thucanhchristinavu/.nuget/packages/bepuutilities/2.4.0/bepuutilities.2.4.0.nupkg.sha512",
+    "/Users/thucanhchristinavu/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/thucanhchristinavu/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
